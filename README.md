@@ -1,7 +1,7 @@
 Hi there 👋
 - 🔭 I’m currently working on an internship project
 - 🌱 I’m currently learning laravel
-  ![Top Languages](https://img.shields.io/badge/Top%20Languages-JavaScript-green)
+
 
 
 <!--
