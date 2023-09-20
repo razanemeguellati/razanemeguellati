@@ -2,7 +2,7 @@ Hi there 👋
 - 🔭 I’m currently working on an internship project
 - 🌱 I’m currently learning laravel
 - 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razanemeguellati&layout=compact&hide_border=true&theme=dark)
+
 
 <!--
 **razanemeguellati/razanemeguellati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
