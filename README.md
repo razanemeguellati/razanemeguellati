@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hi there 👋
+- 🔭 I’m currently working on an internship project
+- 🌱 I’m currently learning laravel 
 <!--
 **razanemeguellati/razanemeguellati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
