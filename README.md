@@ -1,5 +1,5 @@
 Hi there 👋
-- 🔭 I’m currently working on an internship project
+- 🔭 I’m currently learning dl
 - 🌱 I’m currently learning laravel
 
 
