@@ -1,6 +1,5 @@
 Hi there 👋
-- 🔭 I’m currently learning dl
-- 🌱 I’m currently learning laravel
+- 🔭 I’m currently just existing
 
 
 
