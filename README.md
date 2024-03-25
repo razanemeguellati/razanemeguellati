@@ -1,5 +1,5 @@
 Hi there 👋
-- 🔭 I’m currently just existing
+- 🔭 I’m currently just existing and learning a bunch of stuff
 
 
 
